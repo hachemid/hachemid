@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hachemi</h1>
 <h3 align="center">A passionate Data Sceintist from Algeria living in Paris, France.</h3>
 
-- MSc in Data Science and Business Analysis, EDC Paris Business School
+- :nerd_face: MSc in Data Science and Business Analysis, EDC Paris Business School
 - 📫 How to reach me **dahlal.hachemi@gmail.com**
 - 📫 How to reach me **dahlal.hachemi@gmail.com**
 - 📫 How to reach me **dahlal.hachemi@gmail.com**
