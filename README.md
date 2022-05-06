@@ -6,7 +6,7 @@
 - :nerd_face: Bachelor's degree in Electrical Engineering and Electronics :algeria:
  
 <h3 align="left">Certifications:</h3>
-- :+1: AWS Certified Solutions Architect – Associate
+- :+1: AWS Certified Solutions Architect – Associate <br>
 - :+1: Certified Tableau Desktop Specialist
 - :+1: DeepLearning.AI TensorFlow Developer Professional Certificate
 - :+1: Deep Learning Specialization by Andrew Ng
