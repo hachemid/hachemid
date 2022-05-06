@@ -12,10 +12,6 @@
 - - :+1: How to reach me **dahlal.hachemi@gmail.com**
 - - :+1: How to reach me **dahlal.hachemi@gmail.com**
 
-
-- Hobbies: :bike: :headphones: :film_strip: :books: 
-
-
 - 📫 How to reach me **dahlal.hachemi@gmail.com**
 <h3 align="left">Hobbies:</h3>
 <p align="left">
