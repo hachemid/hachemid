@@ -4,9 +4,13 @@
 - :muscle: MSc in Data Science and Business Analysis, EDC Paris Business School :fr:
 - :nerd_face: Bachelor's degree in Electrical Engineering and Electronics :fr:
 - :nerd_face: Bachelor's degree in Electrical Engineering and Electronics :algeria:
-- 📫 How to reach me **dahlal.hachemi@gmail.com**
-- 📫 How to reach me **dahlal.hachemi@gmail.com**
-- 📫 How to reach me **dahlal.hachemi@gmail.com**
+- - :+1: How to reach me **dahlal.hachemi@gmail.com**
+- - :+1: How to reach me **dahlal.hachemi@gmail.com**
+- - :+1: How to reach me **dahlal.hachemi@gmail.com**
+- - :+1: How to reach me **dahlal.hachemi@gmail.com**
+- - :+1: How to reach me **dahlal.hachemi@gmail.com**
+- - :+1: How to reach me **dahlal.hachemi@gmail.com**
+- - :+1: How to reach me **dahlal.hachemi@gmail.com**
 
 
 - Hobbies: :bike: :headphones: :film_strip: :books: 
