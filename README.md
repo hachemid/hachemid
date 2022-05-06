@@ -17,8 +17,10 @@
 
 
 - 📫 How to reach me **dahlal.hachemi@gmail.com**
-
-
+<h3 align="left">Hobbies:</h3>
+<p align="left">
+:bike: :headphones: :film_strip: :books: 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
