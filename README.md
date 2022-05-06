@@ -4,13 +4,15 @@
 - :muscle: MSc in Data Science and Business Analysis, EDC Paris Business School :fr:
 - :nerd_face: Bachelor's degree in Electrical Engineering and Electronics :fr:
 - :nerd_face: Bachelor's degree in Electrical Engineering and Electronics :algeria:
-- - :+1: How to reach me **dahlal.hachemi@gmail.com**
-- - :+1: How to reach me **dahlal.hachemi@gmail.com**
-- - :+1: How to reach me **dahlal.hachemi@gmail.com**
-- - :+1: How to reach me **dahlal.hachemi@gmail.com**
-- - :+1: How to reach me **dahlal.hachemi@gmail.com**
-- - :+1: How to reach me **dahlal.hachemi@gmail.com**
-- - :+1: How to reach me **dahlal.hachemi@gmail.com**
+ 
+<h3 align="left">Certifications:</h3>
+- :+1: AWS Certified Solutions Architect – Associate
+- :+1: Certified Tableau Desktop Specialist
+- :+1: DeepLearning.AI TensorFlow Developer Professional Certificate
+- :+1: Deep Learning Specialization by Andrew Ng
+- :+1: Machine Learning by Andrew Ng
+- :+1: IBM Data Science Professional Certificate
+</p>
 
 - 📫 How to reach me **dahlal.hachemi@gmail.com**
 <h3 align="left">Hobbies:</h3>
