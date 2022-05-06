@@ -2,8 +2,8 @@
 <h3 align="center"> :point_right: A passionate Data Sceintist from Algeria living in Paris, France :point_left: </h3>
 
 - :muscle: MSc in Data Science and Business Analysis, EDC Paris Business School :fr:
-- :nerd_face: Bachelor's degree in Electrical Engineering and Electronics Sorbonne University Paris 6 ex. UPMC :fr:
-- :nerd_face: Bachelor's degree in Electrical Engineering and Electronics :algeria:
+- :nerd_face: Bachelor's degree in Electrical Engineering and Electronics, Sorbonne University Paris 6 ex. UPMC :fr:
+- :nerd_face: Bachelor's degree in Electrical Engineering and Electronics, National Institute of Electrical Engineering and Electronics :algeria:
  
 <h3 align="left">Certifications:</h3>
 - :+1: AWS Certified Solutions Architect – Associate <br>
