@@ -7,11 +7,11 @@
  
 <h3 align="left">Certifications:</h3>
 - :+1: AWS Certified Solutions Architect – Associate <br>
-- :+1: Certified Tableau Desktop Specialist
-- :+1: DeepLearning.AI TensorFlow Developer Professional Certificate
-- :+1: Deep Learning Specialization by Andrew Ng
-- :+1: Machine Learning by Andrew Ng
-- :+1: IBM Data Science Professional Certificate
+- :+1: Certified Tableau Desktop Specialist <br>
+- :+1: DeepLearning.AI TensorFlow Developer Professional Certificate <br>
+- :+1: Deep Learning Specialization by Andrew Ng <br>
+- :+1: Machine Learning by Andrew Ng <br>
+- :+1: IBM Data Science Professional Certificate <br>
 </p>
 
 - 📫 How to reach me **dahlal.hachemi@gmail.com**
