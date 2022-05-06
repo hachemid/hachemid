@@ -8,6 +8,8 @@
 - 📫 How to reach me **dahlal.hachemi@gmail.com**
 - 📫 How to reach me **dahlal.hachemi@gmail.com**
 
+
+- Hobbies: :bike: :headphones: :film_strip: :books: 
 - 📫 How to reach me **dahlal.hachemi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
