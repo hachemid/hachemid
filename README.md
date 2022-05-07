@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hachemi</h1>
-<h3 align="center"> :point_right: A passionate Data Sceintist from Algeria living in Paris, France :point_left: </h3>
+<h3 align="center"> :point_right: A passionate Data Scientist from Algeria living in Paris, France :point_left: </h3>
 
 - :muscle: MSc in Data Science and Business Analysis, EDC Paris Business School :fr:
 - :nerd_face: Bachelor's degree in Electrical Engineering and Electronics, Sorbonne University Paris 6 ex. UPMC :fr:
